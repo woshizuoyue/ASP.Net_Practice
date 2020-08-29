@@ -18,3 +18,14 @@ C:\Users\woshi\source\repos\PracticalWebApp\NorthwindWeb\obj\Debug\netcoreapp3.1
 C:\Users\woshi\source\repos\PracticalWebApp\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.pdb
 C:\Users\woshi\source\repos\PracticalWebApp\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.genruntimeconfig.cache
 C:\Users\woshi\source\repos\PracticalWebApp\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.csprojAssemblyReference.cache
+C:\Users\woshi\source\repos\PracticalWebApp\NorthwindWeb\bin\Debug\netcoreapp3.1\NorthwindWeb.Views.dll
+C:\Users\woshi\source\repos\PracticalWebApp\NorthwindWeb\bin\Debug\netcoreapp3.1\NorthwindWeb.Views.pdb
+C:\Users\woshi\source\repos\PracticalWebApp\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.RazorAssemblyInfo.cache
+C:\Users\woshi\source\repos\PracticalWebApp\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.RazorAssemblyInfo.cs
+C:\Users\woshi\source\repos\PracticalWebApp\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.TagHelpers.input.cache
+C:\Users\woshi\source\repos\PracticalWebApp\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.TagHelpers.output.cache
+C:\Users\woshi\source\repos\PracticalWebApp\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.RazorCoreGenerate.cache
+C:\Users\woshi\source\repos\PracticalWebApp\NorthwindWeb\obj\Debug\netcoreapp3.1\Razor\Pages\index.cshtml.g.cs
+C:\Users\woshi\source\repos\PracticalWebApp\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.RazorTargetAssemblyInfo.cs
+C:\Users\woshi\source\repos\PracticalWebApp\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.Views.pdb
+C:\Users\woshi\source\repos\PracticalWebApp\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.csproj.CopyComplete

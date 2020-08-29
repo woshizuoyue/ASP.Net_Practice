@@ -1,3 +1,12 @@
+﻿@page
+@functions
+{
+    public string DayName{get; set;}
+    public void OnGet()
+    {
+        Model.DayName = DateTime.Now.ToString("dddd");
+    }
+}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,6 +32,7 @@
             <p>
                 <a class="btn btn-primary" href="https://www.asp.net">Learn More</a>
             </p>
+            <p>It's @Model.DayName! Our customers included good!</p>
         </div>
     </div>
 </body>
